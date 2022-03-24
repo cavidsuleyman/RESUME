@@ -13,7 +13,7 @@ Hello, welcome to this lesson. Today I create with React MyPortfolio.
 > **STEP-2:**  enter the `Ballon-Game` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Ballon-Game/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/RESUME/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
