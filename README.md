@@ -22,7 +22,7 @@ This project was developed using the following technologies
 
 | No | Technique | Purpose |
 | - | ---------- | --------------------- |
-| 1 | React | Create one page website |
+| 1 | React | Create single page website |
 | 2 | VSCode | Text editor used in the project |
 
 
